@@ -106,7 +106,7 @@ footer {
     padding: 15px;
 }
 /* --- Estilos para pantallas pequeñas (celulares) --- */
-@media (max-width: 768px) {
+@media (max-width: 480px) {
     /* Header en columna */
     .container {
         flex-direction: column;
@@ -174,3 +174,4 @@ footer {
         height: auto;
     }
 }
+
